@@ -1,5 +1,5 @@
 <p align = 'center'></p>
- <img src="https://media.giphy.com/media/dSdYvmLRPbGMphDQ0r/giphy.gif" alt="Intro GIF" width=100% height="700px">
+ <img src="https://media.giphy.com/media/dSdYvmLRPbGMphDQ0r/giphy.gif" alt="Intro GIF" width="480px" height="480px">
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A Tech Enthusiast and Frontend Flutter Developer, interested in Data Structures and Algorithms and Creating End to End Projects.<br></h3>
 	 <ul><strong>
