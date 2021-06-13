@@ -1,5 +1,5 @@
 <p align = 'center'></p>
- <img src="https://raw.githubusercontent.com/Udit-Kapoor/Udit-Kapoor/main/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100%>
+ <img src="https://media.giphy.com/media/yKJPNIiUYGvZTsbmWX/source.gif" alt="Intro GIF" width=100%>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A Tech Enthusiast and Frontend Flutter Developer, interested in Data Structures and Algorithms and Creating End to End Projects.<br></h3>
 	 <ul><strong>
